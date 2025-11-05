@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\",
+  "WorkspaceRootPath": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\leona\\onedrive\\documentos\\ejercicios de programacion\\tp3-programacion\\tp3-programacion\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\repository\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\repository\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\leona\\onedrive\\documentos\\ejercicios de programacion\\tp3-programacion\\tp3-programacion\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\migrations\\aplicationdbcontextcsmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\migrations\\aplicationdbcontextcsmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\leona\\onedrive\\documentos\\ejercicios de programacion\\tp3-programacion\\tp3-programacion\\data\\aplicationdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\data\\aplicationdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\repository\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\repository\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A109DDB-C8DD-4A7B-8ADA-6E48FAB42DD9}|Menu Consola\\TiendaApp.csproj|c:\\users\\maxi\\source\\repos\\estructura-tp3-programacion\\tp3-programacion\\menu consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A109DDB-C8DD-4A7B-8ADA-6E48FAB42DD9}|Menu Consola\\TiendaApp.csproj|solutionrelative:menu consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Repository\\Class1.cs",
-              "RelativeDocumentMoniker": "Tp3-Programacion\\Repository\\Class1.cs",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Repository\\Class1.cs",
-              "RelativeToolTip": "Tp3-Programacion\\Repository\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "AplicationDbContextcsModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Migrations\\AplicationDbContextcsModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Migrations\\AplicationDbContextcsModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Migrations\\AplicationDbContextcsModelSnapshot.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Migrations\\AplicationDbContextcsModelSnapshot.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:54:09.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T22:53:32.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Menu Consola\\Program.cs",
+              "RelativeDocumentMoniker": "Menu Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Menu Consola\\Program.cs",
+              "RelativeToolTip": "Menu Consola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:07:09.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AplicationDbContextcs.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Data\\AplicationDbContextcs.cs",
-              "RelativeDocumentMoniker": "Tp3-Programacion\\Data\\AplicationDbContextcs.cs",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Data\\AplicationDbContextcs.cs",
-              "RelativeToolTip": "Tp3-Programacion\\Data\\AplicationDbContextcs.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Title": "RepositorioBase.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Repository\\RepositorioBase.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Repository\\RepositorioBase.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Repository\\RepositorioBase.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Repository\\RepositorioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:47:18.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T22:16:57.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Cliente.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:10:11.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\VentaDetalle.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\VentaDetalle.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\VentaDetalle.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Models\\VentaDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:10:28.906Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Class1.cs",
-              "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Class1.cs",
-              "RelativeToolTip": "Tp3-Programacion\\Models\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Repository\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Repository\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Repository\\IRepositorio.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Repository\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:46:03.567Z",
+              "WhenOpened": "2025-11-05T22:16:13.436Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Venta.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:10:19.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Data\\ApplicationDbcontext.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Data\\ApplicationDbcontext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:47:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Producto.cs",
+              "RelativeToolTip": "Tp3-Programacion\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:09:53.607Z"
             }
           ]
         }

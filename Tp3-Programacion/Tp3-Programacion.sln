@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp3-Programacion", "Tp3-Programacion\Tp3-Programacion.csproj", "{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu Consola", "Menu Consola\Menu Consola.csproj", "{1A109DDB-C8DD-4A7B-8ADA-6E48FAB42DD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaApp", "Menu Consola\TiendaApp.csproj", "{1A109DDB-C8DD-4A7B-8ADA-6E48FAB42DD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

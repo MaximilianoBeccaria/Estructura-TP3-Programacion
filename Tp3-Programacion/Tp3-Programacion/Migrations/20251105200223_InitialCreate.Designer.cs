@@ -10,7 +10,7 @@ using Tp3_Programacion.Data;
 
 namespace Tp3_Programacion.Migrations
 {
-    [DbContext(typeof(AplicationDbContextcs))]
+    [DbContext(typeof(ApplicationDbcontext))]
     [Migration("20251105200223_InitialCreate")]
     partial class InitialCreate
     {
