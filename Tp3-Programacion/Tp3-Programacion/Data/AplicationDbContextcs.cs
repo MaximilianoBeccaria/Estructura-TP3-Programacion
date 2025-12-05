@@ -5,20 +5,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Tp3_Programacion.Models;
 
 namespace Tp3_Programacion.Data
 {
     public class AplicationDbContextcs : DbContext
     {
-        // Definicio de tablas.
-        //public DbSet<clase> clases { get; set; }
-
+        public DbSet<Cancha> Canchas { get; set; }
+        public DbSet<Socio> Socios { get; set; }
+        public DbSet<Reserva> Reservas { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
-                "Server=.;Database=TP3-Programacion;Trusted_Connection=True;TrustServerCertificate=True;"
+                "Server=(localdb)\\MSSQLLocalDB;Database=CentroDeportivo;Trusted_Connection=True;TrustServerCertificate=True;"
             );
         }
     }

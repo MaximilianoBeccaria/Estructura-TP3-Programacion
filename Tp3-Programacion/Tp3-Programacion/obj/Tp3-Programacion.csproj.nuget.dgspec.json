@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj": {}
+    "C:\\Users\\Maxi\\source\\repos\\FinalProgramacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj": {
+    "C:\\Users\\Maxi\\source\\repos\\FinalProgramacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj",
+        "projectUniqueName": "C:\\Users\\Maxi\\source\\repos\\FinalProgramacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj",
         "projectName": "Tp3-Programacion",
-        "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj",
-        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Ejercicios de Programacion\\Tp3-Programacion\\Tp3-Programacion\\obj\\",
+        "projectPath": "C:\\Users\\Maxi\\source\\repos\\FinalProgramacion\\Tp3-Programacion\\Tp3-Programacion\\Tp3-Programacion.csproj",
+        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maxi\\source\\repos\\FinalProgramacion\\Tp3-Programacion\\Tp3-Programacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
